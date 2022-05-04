@@ -15,3 +15,7 @@ Apareceu esse erro Error: Could not find or load main class Questao. Não é pos
 ## Q7:
 
 Não é possível compilar, pois, aparece o erro: class, interface, or enum unexpected.
+
+## Q8:
+
+Não é possível compilar, pois, a classe é pública, deve ser declarada em um arquivo .java de mesmo nome.
