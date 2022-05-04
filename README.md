@@ -11,3 +11,7 @@ O JDK(Kit de Desenvolvimento Java) é Kit que provê ferramentas para o desenvol
 ## Q4:
 
 Apareceu esse erro Error: Could not find or load main class Questao. Não é possivel compilar pois o aquivo .class que foi gerado é o bytecode que vai ser transformado em linguagem de máquina assim o programa não é execultado pois o arquivo .class não existe.
+
+## Q7:
+
+Não é possível compilar, pois, aparece o erro: class, interface, or enum unexpected.
