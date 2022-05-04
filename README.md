@@ -1,3 +1,7 @@
+## Q1:
+Q1: 
+
+A JVM é um programa que execulta códigos java convertendo os bytecodes em código execultável de maquina e é responsável pelo gerenciamento dos aplicativos.
 
 ## Q2:
 
